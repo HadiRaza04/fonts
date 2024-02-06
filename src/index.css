@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "action";
+  src: url(../public/Action\ Man\ Shaded\ Italic.ttf);
+}
+@font-face {
+  font-family: "deco";
+  src: url(../public/A780-Deco.ttf);
+}
