@@ -1,7 +1,7 @@
 # How to use .ttf file fonts in React (vite) app with Tailwind
 
 ## Step # 1
-Copy and paste .tff file in public folder
+Copy and paste .ttf file in public folder
 
 ## Step # 2
 Add font face in your global css (like index.css) 
